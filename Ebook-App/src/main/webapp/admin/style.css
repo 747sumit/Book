@@ -1,0 +1,34 @@
+.navbar .nav-item:hover .nav-link
+{
+	background-color: white;
+	color: #303f9f;
+	border-radius:15px;
+}
+
+body{
+	display:flex;
+	flex-direction:column;
+	height:100%;
+	width:100%;
+}
+
+
+html{
+	
+	height:100%;
+	width:100%;
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+
+	
+	
+.bg-custom
+{
+	background-color: #303f9f;
+}
+
+
